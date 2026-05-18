@@ -1,0 +1,29 @@
+Partlist
+
+Exported from 7333.sch at 18.05.26 00:12
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                        Device                       Package                      Library                    Sheet
+
+C1       100nF                        C-EUC0805                    C0805                        rcl                        1
+C2       100nF                        C-EUC0805                    C0805                        rcl                        1
+D1       1N4148W                      DIODE-SOD123                 SOD123                       diode                      1
+D2       1N4148W                      DIODE-SOD123                 SOD123                       diode                      1
+D3                                    DIODE-SOD123                 SOD123                       diode                      1
+D4                                    DIODE-SOD123                 SOD123                       diode                      1
+J1       NEXT18_SOCKET-GENERIC-VERIFY NEXT18_SOCKET-GENERIC-VERIFY NEXT18_SOCKET_GENERIC_VERIFY next18_socket_rcn118_FIXED 1
+LEDH                                  SMD2                         SMD1,27-2,54                 wirepad                    1
+LEDH+                                 SMD2                         SMD1,27-2,54                 wirepad                    1
+LEDV                                  SMD2                         SMD1,27-2,54                 wirepad                    1
+LEDV+                                 SMD2                         SMD1,27-2,54                 wirepad                    1
+MOTOR_L                               SMD5                         SMD2,54-5,08                 wirepad                    1
+MOTOR_R                               SMD5                         SMD2,54-5,08                 wirepad                    1
+R1       1,5K                         R-EU_M0805                   M0805                        rcl                        1
+R2       1,5K                         R-EU_M0805                   M0805                        rcl                        1
+U$1      WIREPAD_SQ_1V74_D0V8         WIREPAD_SQ_1V74_D0V8         WIREPAD_SQ_1V74_D0V8         lokpads                    1
+U$2      WIREPAD_SQ_1V74_D0V8         WIREPAD_SQ_1V74_D0V8         WIREPAD_SQ_1V74_D0V8         lokpads                    1
+U$3      WIREPAD_SQ_1V74_D0V8         WIREPAD_SQ_1V74_D0V8         WIREPAD_SQ_1V74_D0V8         lokpads                    1
+U$4      WIREPAD_SQ_1V74_D0V8         WIREPAD_SQ_1V74_D0V8         WIREPAD_SQ_1V74_D0V8         lokpads                    1

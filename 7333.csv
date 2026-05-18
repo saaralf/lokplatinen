@@ -1,0 +1,18 @@
+"Part";"Value";"Device";"Package";"Description";"POPULARITY";"SPICEPREFIX";
+"C1";"100nF";"C-EUC0805";"C0805";"CAPACITOR, European symbol";"88";"C";
+"C2";"100nF";"C-EUC0805";"C0805";"CAPACITOR, European symbol";"88";"C";
+"CT0519S-10-2X09P";"CT0519S-10-2X09P";"NEXT18_SOCKET-GENERIC-VERIFY";"NEXT18_SOCKET_GENERIC_VERIFY";"Next18 / Next18-S vehicle socketSymbol follows RailCommunity RCN-118 pin names. Device contains a generic preliminary footprint.";"";"";
+"D1";"1N4148W";"DIODE-SOD123";"SOD123";"DIODE";"22";"";
+"D2";"1N4148W";"DIODE-SOD123";"SOD123";"DIODE";"22";"";
+"LEDH";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"15";"";
+"LEDH+";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"15";"";
+"LEDV";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"15";"";
+"LEDV+";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"15";"";
+"MOTOR_L";"";"SMD5";"SMD2,54-5,08";"SMD PAD";"21";"";
+"MOTOR_R";"";"SMD5";"SMD2,54-5,08";"SMD PAD";"21";"";
+"R1";"1.5K";"R-EU_M0805";"M0805";"RESISTOR, European symbol";"45";"R";
+"R2";"1.5K";"R-EU_M0805";"M0805";"RESISTOR, European symbol";"45";"R";
+"U$1";"WIREPAD_SQ_1V74_D0V8";"WIREPAD_SQ_1V74_D0V8";"WIREPAD_SQ_1V74_D0V8";"";"";"";
+"U$2";"WIREPAD_SQ_1V74_D0V8";"WIREPAD_SQ_1V74_D0V8";"WIREPAD_SQ_1V74_D0V8";"";"";"";
+"U$3";"WIREPAD_SQ_1V74_D0V8";"WIREPAD_SQ_1V74_D0V8";"WIREPAD_SQ_1V74_D0V8";"";"";"";
+"U$4";"WIREPAD_SQ_1V74_D0V8";"WIREPAD_SQ_1V74_D0V8";"WIREPAD_SQ_1V74_D0V8";"";"";"";
